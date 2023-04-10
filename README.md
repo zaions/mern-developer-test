@@ -27,11 +27,11 @@ Other contact info
 
 ## Test Overview
 
-- you will find two other branches in this repo.
+- you will find two folders in this repo.
   - one named "frontend-react."
   - one named "backend-node."
-- in the "frontend-react" branch, we have added a starting point for the test project frontend (to save project setup time for you), and we have included the packages you can (or are supposed to use in this test project). Please do not install any additional packages.
-- in the "backend-node" branch, we have added a starting point for the test project backend.
+- in the "frontend-react" folder, we have added a starting point for the test project frontend (to save project setup time for you), and we have included the packages you can (or are supposed to use in this test project). Please do not install any additional packages.
+- in the "backend-node" folder, we have added a starting point for the test project backend.
 - each frontend and backend project is just a blank project; with Typescript and other packages installed, you will need to configure packages and connect the frontend with the backend as needed.
 
 ### Frontend (ReactNative (we will build the web, not the mobile app, but we will use ReactNative components, as our company mainly focuses on mobile app development) + Typescript (as we do not work in JS projects unless the client requires it))
